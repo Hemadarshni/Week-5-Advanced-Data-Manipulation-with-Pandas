@@ -1,0 +1,4 @@
+pandas
+Matplotlib
+combinations
+counter
